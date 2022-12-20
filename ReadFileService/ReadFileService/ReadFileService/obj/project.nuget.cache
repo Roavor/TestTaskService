@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOy9pIpmHtoQyIKa/sw4h56URiGWDCzhbwOYBgkPuOKvKtKWSwQMB93RMRm4ecEgSxuHDO3c9iLdEvLDsBs1MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\o.shpakovych\\Documents\\GitHub\\ReadFileService\\ReadFileService\\ReadFileService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\o.shpakovych\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\o.shpakovych\\.nuget\\packages\\swaggergen.extensions\\1.0.8\\swaggergen.extensions.1.0.8.nupkg.sha512",
+    "C:\\Users\\o.shpakovych\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\o.shpakovych\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\o.shpakovych\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

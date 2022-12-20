@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VaQMH432p2x8GnrMGYCi7SsJB9Cv6wyRTtFaVqdl+Zs=",
+  "Source": "ReadFileService",
+  "BasePath": "_content/ReadFileService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa91da2a-bc34-4f38-8d8f-77aa18d93a8b": {
+      "ProjectGuid": "aa91da2a-bc34-4f38-8d8f-77aa18d93a8b",
+      "DisplayName": "ReadFileService",
+      "ColorIndex": 0
+    },
+    "49e25734-9b9d-4399-a5ba-75d75fb9a907": {
+      "ProjectGuid": "49e25734-9b9d-4399-a5ba-75d75fb9a907",
+      "DisplayName": "FileReadService",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b176afb3-0154-4eed-be95-d6ecfb5e23d6": {
+      "ProjectGuid": "b176afb3-0154-4eed-be95-d6ecfb5e23d6",
+      "DisplayName": "TestFileProcessing",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
